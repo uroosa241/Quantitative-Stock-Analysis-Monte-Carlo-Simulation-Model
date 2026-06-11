@@ -1,10 +1,10 @@
-# 📊 Quantitative Stock Analysis & Monte Carlo Simulation
+#  Quantitative Stock Analysis & Monte Carlo Simulation
 
 This project is a Python-based financial analysis system that evaluates and simulates stock behavior using real market data.
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project analyzes two major stocks:
 - Apple (AAPL)
@@ -14,7 +14,7 @@ It combines financial ratio analysis, probability modeling, and Monte Carlo simu
 
 ---
 
-## 📌 Features
+##  Features
 
 ### 1. Financial Ratio Analysis
 - Profit Margin
@@ -38,7 +38,7 @@ It combines financial ratio analysis, probability modeling, and Monte Carlo simu
 
 ---
 
-## 📊 Model Used
+##  Model Used
 
 - Log Return Model
 - Empirical Probability Model
@@ -47,7 +47,7 @@ It combines financial ratio analysis, probability modeling, and Monte Carlo simu
 
 ---
 
-## 📈 Results (Apple Example)
+##  Results (Apple Example)
 
 - Expected Price: ~298.79
 - Best Case: ~430.02
@@ -56,14 +56,14 @@ It combines financial ratio analysis, probability modeling, and Monte Carlo simu
 
 ---
 
-## ⚠️ Important Note
+##  Important Note
 
 This model does NOT predict exact stock prices.  
 It provides a probabilistic range of possible outcomes based on historical data and volatility.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python
 - yfinance
@@ -72,7 +72,7 @@ It provides a probabilistic range of possible outcomes based on historical data 
 
 ---
 
-## 📚 Learning Outcome
+##  Learning Outcome
 
 This project demonstrates:
 - Financial data analysis
@@ -82,6 +82,9 @@ This project demonstrates:
 
 ---
 
-## 📌 Author
+##  Author
+Uroosa Khan
 
 Built as a learning project in quantitative finance and Python data analysis.
+
+U
